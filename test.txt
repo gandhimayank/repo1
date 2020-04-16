@@ -1,10 +1,1 @@
- Volume in drive C is OS
- Volume Serial Number is 5658-ACB5
-
- Directory of C:\Users\ASUS\Desktop\My Project
-
-04/16/2020  01:50 PM    <DIR>          .
-04/16/2020  01:50 PM    <DIR>          ..
-04/16/2020  01:50 PM                 0 test.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  114,438,213,632 bytes free
+change 1
